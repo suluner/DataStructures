@@ -8,3 +8,5 @@ Data structures implemented in C++
 - Array
 
 - List
+
+- Tree
